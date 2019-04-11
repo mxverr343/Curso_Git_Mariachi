@@ -7,3 +7,5 @@
 * Mujer Maravilla
 * Shazam
 * Cybort
+* Spider Man
+* Iron Man
